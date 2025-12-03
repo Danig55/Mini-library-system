@@ -16,7 +16,7 @@
 ## Структура на проекта
 
 ```
-Vladov_dom/
+Library_projecr/
 ├── CMakeLists.txt
 ├── pictures/
 │   ├── console.png
